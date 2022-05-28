@@ -1,4 +1,3 @@
-
 function ageGuess (age){
   
     
